@@ -4,11 +4,11 @@ body {
 }
 
 #myButton {
-    font-size: 300%;
+    font-size: 3em;
     padding: 5px 25px;
     border-radius: 5px;
 }
 
 #myLabel {
-    font-size: 300%;
+    font-size: 3em;
 }
