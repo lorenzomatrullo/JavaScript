@@ -1,4 +1,4 @@
-## JavaScript Programming
+## JavaScript
 This repository is a small, hands-on JavaScript learning path. Each file is a tiny, runnable example focused on a single idea, arranged in a clear order. You can read through the files like a short textbook and execute each one as you go.
 
 <br>
