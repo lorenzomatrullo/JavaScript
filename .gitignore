@@ -1,4 +1,41 @@
-*.exe
+# Node and JavaScript dependencies
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Build and distribution folders
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code and workspace settings
+.vscode/
+*.code-workspace
+
+# Other IDE/editor metadata
+.idea/
+*.iml
+.history/
+
+# Local environment and tooling
+.env
+.env.*
+
 index.js
 index.html
 style.css
